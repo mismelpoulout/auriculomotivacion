@@ -1,5 +1,10 @@
 # React JS Landing Page Template
 
+IMPORTANTE :    HAY QUE INSTALAR LOS MODULOS --- NPM INSTALL
+                 E INSTALAR FIREBASE Y TODAS SUS DEPENDENCIAS PARA QUE PUEDAN HACER DEPLOY
+                 
+                 
+
 
 ### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
 

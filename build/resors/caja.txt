@@ -1,0 +1,10 @@
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v12.0&appId=1415225068582650&autoLogAppEvents=1" nonce="ZkUhZzNo">
+</script>
+
+
+in the body
+
+<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="auto" data-numposts="7">
+</div>
+  +556186387765
